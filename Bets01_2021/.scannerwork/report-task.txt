@@ -1,0 +1,7 @@
+organization=maiteurreta
+projectKey=Bets01-2021
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.12861
+dashboardUrl=https://sonarcloud.io/dashboard?id=Bets01-2021
+ceTaskId=AXTk4jAhD_bu47n-W8_9
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXTk4jAhD_bu47n-W8_9

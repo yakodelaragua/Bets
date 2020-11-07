@@ -1,0 +1,72 @@
+
+WbusinessLogic.BLFacadeImplementation#getEventsMonth(Ljava/util/Date;)Ljava/util/Vector;w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javae  e(."startingBlock*ô
+startingBlockw
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javae. e(9·
+´
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javae e(
+%6"
+__annotate*
+	WebMethod*
+
+datejava.util.Dateª
+§
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javae4 e(8
+datejava.util.Date"__annotation*
+
+%6*
+1*Ê
+1w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javaf f(Ø
+Õ
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javaf f(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerØÕ
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javaf f(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)Ø
+Õ
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javag g(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¹¶
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javag g(4
+%3java.util.Vector"HdataAccess.DataAccess#getEventsMonth(Ljava/util/Date;)Ljava/util/Vector;*
+
+%2dataAccess.DataAccess*
+
+datejava.util.Date2 getEventsMonth(Ljava/util/Date;)·
+´
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javag g(5
+datesjava.util.Vector"__id*
+
+%3java.util.VectorØ
+Õ
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javah h(
+%4dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÐÍ
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javah h(
+
+%5void"dataAccess.DataAccess#close()V*
+
+%4dataAccess.DataAccess2close()"–
+w
+mC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/businessLogic/BLFacadeImplementation.javai i(
+
+datesjava.util.Vector:
+datejava.util.DateB(&
+$businessLogic.BLFacadeImplementation

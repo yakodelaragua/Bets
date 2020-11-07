@@ -1,0 +1,59 @@
+
+,domain.Question#toString()Ljava/lang/String;d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaù ù("1*Ä
+1d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû	 û(±
+Æ
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû	 û(
+%0java.lang.Integer"__id*'*%
+domain.Question"
+questionNumber≠
+™
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû	 û(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;™
+ß
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû û($
+%2java.lang.String"__id*!*
+domain.Question"
+
+questionø
+º
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû	 û($
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String¨
+©
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû	 û((
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;Õ
+ 
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû) û(C
+%5java.lang.String"-java.lang.Float#toString(F)Ljava/lang/String;*"
+java.lang.Float*
+""ø
+º
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû	 û(C
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"Ä
+d
+XC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Question.javaû û(D
+
+%6java.lang.StringB
+domain.Question

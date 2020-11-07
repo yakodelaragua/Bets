@@ -1,0 +1,55 @@
+
+4domain.Event#DoesQuestionExists(Ljava/lang/String;)Z_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaf f(""5*¢
+2_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javag g(ˆ
+…
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javag g(
+qdomain.Question"__id*
+""¨
+¥
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javag g(
+qdomain.Question"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+4
+1*Ï
+3_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javai i("i
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javai i(
+""*¿
+4_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javah h(ÔÑ
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javah h(
+%1java.lang.String"/domain.Question#getQuestion()Ljava/lang/String;*
+
+qdomain.Question2getQuestion()ùö
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javah h(*	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%1java.lang.String*
+
+questionjava.lang.String2compareTo(Ljava/lang/String;)*
+2
+3*¹
+5_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javag g(ÍÊ
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javag g(%
+%0java.util.Vector"-domain.Event#getQuestions()Ljava/util/Vector;*
+domain.Event2getQuestions()*
+2*Ï
+1_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javak	 k("i
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javak k(
+"":
+questionjava.lang.StringB
+domain.Event

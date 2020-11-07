@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-06 12:44:58 #1 store] 
+Database 'D:\Downloads\Bets01_2021\Bets01_2021\src\main\resources\bets.temp' has been recovered (tr. 17-28)
+
+[2020-11-06 12:44:58 #2 store] 
+Database 'D:\Downloads\Bets01_2021\Bets01_2021\src\main\resources\bets.temp' is opened by 14808@PCcito
+
+[2020-11-06 12:44:58 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-06 12:44:58 #4 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-06 13:05:55 #1 store] 
+Database 'D:\Downloads\Bets01_2021\Bets01_2021\src\main\resources\bets.temp' is opened by 17796@PCcito
+
+[2020-11-06 13:05:55 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-06 13:05:55 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-06 13:28:58 #1 store] 
+Database 'D:\Downloads\Bets01_2021\Bets01_2021\src\main\resources\bets.temp' is opened by 8856@PCcito
+
+[2020-11-06 13:28:58 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-06 13:28:58 #3 type] 
+Type domain.Question is not enhanced.
+

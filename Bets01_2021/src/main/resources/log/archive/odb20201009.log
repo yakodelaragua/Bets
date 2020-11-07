@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-09 11:24:02 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021\src\main\resources\bets.temp' is opened by 3360@U104466
+
+[2020-10-09 11:24:02 #2 type.registry] 
+New type domain.Event
+
+[2020-10-09 11:24:02 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-10-09 11:24:02 #4 type.registry] 
+New type domain.Question
+
+[2020-10-09 11:24:02 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-10-09 11:24:02 #6 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-09 11:24:02 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

@@ -1,0 +1,83 @@
+------------------------------------------------------------------------------------------------------------------------
+
+<<<<<<< HEAD
+[2020-10-08 10:53:55 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021\src\main\resources\bets.temp' has been recovered (tr. 960-971)
+
+[2020-10-08 10:53:55 #2 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021\src\main\resources\bets.temp' is opened by 9520@U110603
+
+[2020-10-08 10:53:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-08 10:53:55 #4 type] 
+=======
+[2020-10-08 10:45:18 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' has been recovered (tr. 948-959)
+
+[2020-10-08 10:45:18 #2 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' is opened by 10688@U104466
+
+[2020-10-08 10:45:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-08 10:45:18 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-08 10:51:09 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' has been recovered (tr. 960-971)
+
+[2020-10-08 10:51:09 #2 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' is opened by 10968@U104466
+
+[2020-10-08 10:51:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-08 10:51:09 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-08 10:51:40 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' has been recovered (tr. 972-977)
+
+[2020-10-08 10:51:40 #2 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' is opened by 8436@U104466
+
+[2020-10-08 10:51:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-08 10:51:41 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-08 10:52:21 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' has been recovered (tr. 978-989)
+
+[2020-10-08 10:52:21 #2 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' is opened by 10612@U104466
+
+[2020-10-08 10:52:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-08 10:52:22 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-08 11:10:12 #1 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' has been recovered (tr. 990-1001)
+
+[2020-10-08 11:10:12 #2 store] 
+Database 'C:\Users\jipurlom\git\Bets01_2021_08_10_2020\src\main\resources\bets.temp' is opened by 10708@U104466
+
+[2020-10-08 11:10:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-08 11:10:12 #4 type] 
+>>>>>>> branch 'master' of https://github.com/MaiteUrreta/Bets01_2021
+Type domain.Event is not enhanced.
+

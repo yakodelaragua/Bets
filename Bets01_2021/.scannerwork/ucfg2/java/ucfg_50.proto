@@ -1,0 +1,92 @@
+
+(domain.Event#equals(Ljava/lang/Object;)Z_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javay y("startingBlock*”
+2a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÇ
+ Ç("k
+a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÇ Ç(
+""*Ï
+3a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÄ Ä(û
+õ
+a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÄ Ä(
+otherdomain.Event"__id*
+
+objjava.lang.Object®
+•
+a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÅ Å(
+%2java.lang.Integer"__id*!*
+domain.Event"
+eventNumberØ
+¨
+a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÅ Å(&
+%3java.lang.Integer"__id*(*&
+
+otherdomain.Event"
+eventNumber*
+2
+1*Ω
+startingBlock_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javay y("©
+¶
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javax x(
+
+%4"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Objectì
+ê
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javay y(!
+objjava.lang.Object"__annotation*
+
+%4*	
+5
+6
+8*œ
+4_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java
+ ("i
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java (
+""*â
+5_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java~ ~(«ƒ
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java~ ~(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.Event2
+getClass()–Õ
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java~ ~("
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+3
+4*œ
+6_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java}
+ }("i
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java} }(
+""*œ
+8_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java{
+ {("i
+_
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.java{ {(
+""*”
+1a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÉ	 É("k
+a
+UC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/domain/Event.javaÉ É(
+"":
+objjava.lang.ObjectB
+domain.Event

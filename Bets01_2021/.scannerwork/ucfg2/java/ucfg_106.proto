@@ -1,0 +1,99 @@
+
+*gui.MainGUI#getPanel()Ljavax/swing/JPanel;`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÂ Â("3*¡
+2`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÄ Ä(“
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÄ Ä(
+%1javax.swing.JPanel"javax.swing.JPanel¥
+¢
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÄ Ä(
+%2"javax.swing.JPanel#<init>()V*
+
+%1javax.swing.JPanel¡
+
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÄ Ä(
+gui.MainGUI"
+panel"__id*
+
+%1javax.swing.JPanel¡
+
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÅ Å(
+%3javax.swing.JPanel"__id**
+gui.MainGUI"
+panelØ
+Õ
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÅ Å('
+%4javax.swing.JRadioButton"@gui.MainGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;*
+gui.MainGUIš—
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÅ Å((
+%5java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%3javax.swing.JPanel* 
+
+%4javax.swing.JRadioButton2add(Ljava/awt/Component;)¡
+
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÆ Æ(
+%6javax.swing.JPanel"__id**
+gui.MainGUI"
+panelØ
+Õ
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÆ Æ('
+%7javax.swing.JRadioButton"@gui.MainGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;*
+gui.MainGUIš—
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÆ Æ((
+%8java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%6javax.swing.JPanel* 
+
+%7javax.swing.JRadioButton2add(Ljava/awt/Component;)¡
+
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÇ Ç(
+%9javax.swing.JPanel"__id**
+gui.MainGUI"
+panel×
+Ô
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÇ Ç(%
+%10javax.swing.JRadioButton">gui.MainGUI#getRdbtnNewRadioButton()Ljavax/swing/JRadioButton;*
+gui.MainGUIœ™
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÇ Ç(&
+%11java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%9javax.swing.JPanel*!
+
+%10javax.swing.JRadioButton2add(Ljava/awt/Component;)*
+1*‘
+3`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÃ Ã(¡
+
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÃ Ã(
+%0javax.swing.JPanel"__id**
+gui.MainGUI"
+panel*
+2
+1*‹
+1`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÉ	 É(¢
+Ÿ
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÉ	 É(
+%12javax.swing.JPanel"__id**
+gui.MainGUI"
+panel"
+`
+TC:/Users/jipurlom/ownCloud/IS2/Curso_2021/BetsJon2021/src/main/java/gui/MainGUI.javaÉ É(
+
+%12javax.swing.JPanelB
+gui.MainGUI
